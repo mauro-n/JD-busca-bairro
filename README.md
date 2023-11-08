@@ -1,6 +1,11 @@
 # Busca Bairros - Juventude Digital
 ---
 
+## Download
+https://drive.google.com/file/d/1LsQJMPd6wsiGbhelKWxRhGJKr-oaZl_e/view?usp=drive_link
+
+O programa ficou pesado demais para deixar no github
+
 ## Como usar o busca bairros?
 
 O aplicativo percorre uma coluna de CEPs de uma planilha e escreve ao lado o bairro daquela localidade.
@@ -30,3 +35,13 @@ OBS: Certifique-se de que a planilha esteja fechada
 <p align="center">
   <img src="https://github.com/mauro-n/JD-busca-bairro/blob/main/screenshots/Screenshot_2.jpg?raw=true" />
 </p>
+
+## Histórico
+
+- v1.01 Correção de bugs e melhor tratamento de erros
+Corrigido crash ao processar certos CEPs
+
+- v1.2 Novas Features e Perfomance
+Adicionada barra de progresso;
+Adicionado um banco local que aumentou consideralvemente o desempenho;
+
