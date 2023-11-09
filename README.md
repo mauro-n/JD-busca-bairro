@@ -2,9 +2,8 @@
 ---
 
 ## Download
-https://drive.google.com/file/d/1LsQJMPd6wsiGbhelKWxRhGJKr-oaZl_e/view?usp=drive_link
+https://drive.google.com/file/d/1Ud-hlWxxEVNFz7_MZ23OaXDncAM5ECb0/view?usp=drive_link
 
-O programa ficou pesado demais para deixar no github
 
 ## Como usar o busca bairros?
 
@@ -38,10 +37,22 @@ OBS: Certifique-se de que a planilha esteja fechada
 
 ## Histórico
 
-- v1.01 Correção de bugs e melhor tratamento de erros
-Corrigido crash ao processar certos CEPs
+- v1.2.1 Bug Fix
+
+Solucionado um bug onde não eram escritos todos os CEPs no
+intervalo selecionado
 
 - v1.2 Novas Features e Perfomance
+
 Adicionada barra de progresso;
+
 Adicionado um banco local que aumentou consideralvemente o desempenho;
+
+- v1.01 Correção de bugs e melhor tratamento de erros
+
+Corrigido crash ao processar certos CEPs
+
+
+
+
 
